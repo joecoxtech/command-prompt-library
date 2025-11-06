@@ -5,9 +5,9 @@ From my TikTok series 👇
 Video 1: https://www.tiktok.com/@joecoxtech/video/7568573474717863181  
 Video 2: https://www.tiktok.com/@joecoxtech/video/7569281508821716238
 
-| Command | Description |
+| Command | Description | Video |
 |---------|-------------|
-| winget upgrade --all | Updates all apps on your system, replacing chocolatey or manual updating |
+| winget upgrade --all | Updates all apps on your system, replacing chocolatey or manual updating | Video 1 |
 | sfc /scannow | Repairs corrupt system files |
 | DISM /Online /Cleanup-Image /Restore Health | Deep repair tools |
 | powercfg /batteryreport | Creates battery health report
