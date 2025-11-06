@@ -21,5 +21,5 @@ Video 2: https://www.tiktok.com/@joecoxtech/video/7569281508821716238
 | gpupdate /force | Force Group Police update | Video 1 |
 | net use \\computer\C$ | Access someone's C drive silently (with creds) | Video 1 |
 | whoami /groups | Shows AD groups you're in | Video 1 |
-| choco install <package> | Show Chocolately for software installs Video 1 |
+| choco install <package> | Show Chocolately for software installs | Video 1 |
 | taskkill /f /im explorer.exe & start explorer.exe | Restart Windows Explorer | Video 1 |
