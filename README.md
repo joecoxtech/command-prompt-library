@@ -10,7 +10,7 @@ Video 2: https://www.tiktok.com/@joecoxtech/video/7569281508821716238
 | winget upgrade --all | Updates all apps on your system, replacing chocolatey or manual updating | Video 1 |
 | sfc /scannow | Repairs corrupt system files | Video 1 |
 | DISM /Online /Cleanup-Image /Restore Health | Deep repair tools | Video 1 |
-| powercfg /batteryreport | Creates battery health report Video 1 |
+| powercfg /batteryreport | Creates battery health report | Video 1 |
 | ipconfig /displaydns | Shows DNS cache | Video 1 |
 | netstate -ano | Shows ports + process IDs | Video 1 |
 | tasklist /svc | Shows what services and processes are running | Video 1 |
