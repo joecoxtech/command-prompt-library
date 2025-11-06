@@ -1,0 +1,18 @@
+From my TikTok series 👇
+
+Video 1: https://www.tiktok.com/@joecoxtech/video/7568573474717863181
+Video 2: https://www.tiktok.com/@joecoxtech/video/7569281508821716238
+
+# Windows Commands Everyone Should Know (JoeCoxTech)
+# Save this file and open alongside my TikTok series.
+
+winget upgrade --all           # update all apps (silent if you add --silent)
+sfc /scannow                   # scan and repair system files
+DISM /Online /Cleanup-Image /RestoreHealth   # repair component store
+chkdsk C: /f                   # fix disk errors on C: (prompts for reboot)
+ipconfig /all                  # detailed IP info
+ipconfig /flushdns             # clear DNS cache
+netsh winsock reset            # reset Winsock
+tasklist                       # running processes
+taskkill /IM notepad.exe /F    # force-close a process
+shutdown /r /t 0               # restart immediately
