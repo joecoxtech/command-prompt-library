@@ -23,3 +23,11 @@ Video 2: https://www.tiktok.com/@joecoxtech/video/7569281508821716238
 | whoami /groups | Shows AD groups you're in | Video 1 |
 | choco install <package> | Show Chocolately for software installs | Video 1 |
 | taskkill /f /im explorer.exe & start explorer.exe | Restart Windows Explorer | Video 1 |
+| gpresult /r | Shows every Group Policy applied to user and computer | Video 2 |
+| netsh wlan show profiles | Shows all WiFi networks previous joined | Video 2 |
+| netsh wlan show profiles name="YourWifi" key=clear | Shows specific wifi network password in the clear | Video 2 |
+| chkdsk /f | Checks and repairs file system errors | Video 2 |
+| wmic diskdrive get status | Health check on hard drives or SSDs | Video 2 |
+| tasklist /fi "imagename eq chrome.exe " | Shows how much resource an application is consuming | Video 2 |
+| net use \\ComputerName\C$ /user:DOMAIN\AdminUser | Access another computer's C Drive on the network | Video 2
+| systeminfo | System audit- Windows version, build number, install date, BIOS version, etc. | Video 2 |
