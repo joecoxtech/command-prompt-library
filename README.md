@@ -4,6 +4,7 @@ From my TikTok series 👇
 
 Video 1: https://www.tiktok.com/@joecoxtech/video/7568573474717863181  
 Video 2: https://www.tiktok.com/@joecoxtech/video/7569281508821716238
+Video 3: https://www.tiktok.com/@joecoxtech/video/7574895253094780215
 
 | Command | Description | Video |
 |---------|-------------| ----- |
