@@ -31,3 +31,11 @@ Video 2: https://www.tiktok.com/@joecoxtech/video/7569281508821716238
 | tasklist /fi "imagename eq chrome.exe " | Shows how much resource an application is consuming | Video 2 |
 | net use \\ComputerName\C$ /user:DOMAIN\AdminUser | Access another computer's C Drive on the network | Video 2
 | systeminfo | System audit- Windows version, build number, install date, BIOS version, etc. | Video 2 |
+| clip | Add to the end of ANY command and it copies the results to your clipboard instantly. | Video 3 |
+| cipher /w:C: | Securely write over empty space on your drive. | Video 3 |
+| driverquery | Show severy driver and when it was installed. | Video 3 |
+| assoc + ftype | Shows what programs open what file types, allows you to change it. | Video 3 |
+| shutdown /r /o | Restarts PC directly into recovery menu. | Video 3 |
+| systeminfo | findstr /B /C:"OS" | Shows just the OS information — filtered, clean, perfect for screenshots. | Video 3 |
+| netstat -abno | Shows which apps are talking to the internet and which ports they’re using. | Video 3 |
+
