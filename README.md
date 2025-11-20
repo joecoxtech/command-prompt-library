@@ -36,6 +36,6 @@ Video 2: https://www.tiktok.com/@joecoxtech/video/7569281508821716238
 | driverquery | Show severy driver and when it was installed. | Video 3 |
 | assoc + ftype | Shows what programs open what file types, allows you to change it. | Video 3 |
 | shutdown /r /o | Restarts PC directly into recovery menu. | Video 3 |
-| systeminfo | findstr /B /C:"OS" | Shows just the OS information — filtered, clean, perfect for screenshots. | Video 3 |
+| systeminfo findstr /B /C:"OS" | Shows just the OS information — filtered, clean, perfect for screenshots. | Video 3 |
 | netstat -abno | Shows which apps are talking to the internet and which ports they’re using. | Video 3 |
 
