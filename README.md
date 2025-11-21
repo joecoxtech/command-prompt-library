@@ -9,12 +9,12 @@ Video 3: https://www.tiktok.com/@joecoxtech/video/7574895253094780215
 
 | Command | Description | Video |
 |---------|-------------| ----- |
-| winget upgrade --all | Updates all apps on your system, replacing chocolatey or manual updating | Video 1 |
+| winget upgrade -r -u | Updates all apps on your system, replacing chocolatey or manual updating | Video 1 |
 | sfc /scannow | Repairs corrupt system files | Video 1 |
 | DISM /Online /Cleanup-Image /Restore Health | Deep repair tools | Video 1 |
 | powercfg /batteryreport | Creates battery health report | Video 1 |
 | ipconfig /displaydns | Shows DNS cache | Video 1 |
-| netstate -ano | Shows ports + process IDs | Video 1 |
+| netstat -ano | Shows ports + process IDs | Video 1 |
 | tasklist /svc | Shows what services and processes are running | Video 1 |
 | shutdown /s /t 0 | Force shutdown immediately (works remotely) | Video 1 |
 | shutdown /i | Graphical remote shutdown manager (IT Gold) | Video 1 |
